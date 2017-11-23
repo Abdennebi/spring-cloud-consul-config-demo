@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    consul:
+      config:
+        fail-fast: true
+        format: FILES
+        enabled: true
+        profileSeparator: '-'
+
