@@ -1,0 +1,1 @@
+git2consul --config-file /config/git2consul.json -e $CONSUL_URL -p $CONSUL_PORT
